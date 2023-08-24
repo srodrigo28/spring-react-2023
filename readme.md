@@ -26,3 +26,8 @@ https://www.oracle.com/java/technologies/downloads/#jdk20-windows
 ```
 https://www.youtube.com/watch?v=wlYvA2b1BWI
 ```
+
+* APi com JavaNauta
+```
+https://www.youtube.com/watch?v=wtYAqS1GcHE&t=8s
+```
