@@ -1,5 +1,10 @@
+import styled from "styled-components";
+
+const BotaoEstilizado = styled.button`
+    background-color: #EB9B00;
+`
 export const AbBotao = () => {
     return (
-        <button>Click Aqui</button>
+        <BotaoEstilizado>Click Aqui</BotaoEstilizado>
     )
 }
